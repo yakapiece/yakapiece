@@ -34,9 +34,9 @@ Here are some platforms where I’m developing and proving my skills:
 [![OSCP](https://img.shields.io/badge/OSCP-OffSec-red?style=for-the-badge&logo=offensive-security&logoColor=white)](https://www.offsec.com/)  
 *(Add more as you earn them)*  
 
-**Hack The Box**  
+<!--- **Hack The Box**  
 [![HTB Badge](https://www.hackthebox.com/badge/image/12345)](https://app.hackthebox.com/profile/12345)  
-*(Replace `12345` with your actual HTB ID — this badge updates automatically)*  
+*(Replace `12345` with your actual HTB ID — this badge updates automatically)*  --->
 
 ---
 
