@@ -19,7 +19,7 @@
       <p>In today's challenging economic landscape, providers often struggle with unreliable reimbursements, infrastructure vulnerabilities, and maintaining high-quality care amid limited resources. My unique blend of technical expertise and healthcare systems knowledge allows me to address these issues in innovative ways, from automating workflows to enhancing security measures. This GitHub serves as a hub for sharing tools, insights, and projects that have supported my mission to make healthcare more efficient, secure, and patient-centered.</p>
     </td>
     <td>
-      <img src="images/1.png" alt="Image1" width="385" height="371">
+      <img src="images/1.png" alt="Image1" style="width:385px; height:371px; max-width:none;">
     </td>
   </tr>
 </table>
