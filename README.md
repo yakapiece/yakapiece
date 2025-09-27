@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hello, I'm Robert</h1>
-<h3 align="left">Cybersecurity Professional | Penetration Tester | Bug Bounty Hunter</h3>
+<h3 align="left">Computer Scientist | Industrial Engineer | Healthcare Nerd</h3>
 
 <div align="left"> 
   <a href="mailto:robert@example.com" target="_blank">
@@ -15,14 +15,16 @@
 
 <br> 
 
-<div align="left">
-
-I’m a cybersecurity professional with hands-on experience in penetration testing, ethical hacking, and vulnerability assessment.  
-This space is where I share projects, research, write-ups, and resources from my journey in cybersecurity.  
-
-I’m currently building my portfolio with certifications, labs, and bug bounty engagements to strengthen and showcase my technical expertise.
-
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+    <div style="flex: 1; text-align: left;">
+        I am a healthcare innovation leader passionate about enhancing patient safety, clinical outcomes, and satisfaction through technology-driven solutions. With a Bachelor's in Computer Science (cybersecurity focus) from Georgia Tech and a Master's of Industrial Engineering from Lehigh University, I've built a career leading transformative initiatives at organizations like Emory, Geisinger, Highmark/Allegheny Health Network, and multiple startups.
+        In today's challenging economic landscape, providers often struggle with unreliable reimbursements, infrastructure vulnerabilities, and maintaining high-quality care amid limited resources. My unique blend of technical expertise and healthcare systems knowledge allows me to address these issues in innovative ways, from automating workflows to enhancing security measures. This GitHub serves as a hub for sharing tools, insights, and projects that have supported my mission to make healthcare more efficient, secure, and patient-centered.
+    </div>
+    <div style="flex: 0 0 auto; text-align: center;">
+        <img src="images/1.png" alt="Image1" width="385.1" height="370.9">
+    </div>
 </div>
+
 
 ---
 
