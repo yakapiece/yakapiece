@@ -45,26 +45,23 @@
   <div class="image-section" align="center">
     <img src="images/2.png" alt="Image1" width="324" height="350">
   </div>
-  
-<br>
-
 <h2 align="left">🎓 Recognition & Training</h2>
   
-- Georgia Institute of Technology - Bachelors in Computer Science (infosec focus)
-- Lehigh University - Master in Industrial Engineering (healthcare focus)
-- Lean Six Sigma : Master Black Belt
-- OffSec: OSCP, OSCP+, OSEP, OSWE
-- HTB: CPTS, CWEE
-- Misc: CISM, Azure Cybersecurity Architect + other cloud certs
-
-- 2024 & 2025 KLAS Emerging Technology Council
-- 2023 KLAS K2 Summit Points of Light Recipient 
-- 2023 KLAS RCM Summit Keynote
-
+- Education:
+  - Georgia Institute of Technology - Bachelors in Computer Science (infosec focus)
+  - Lehigh University - Master in Industrial Engineering (healthcare focus)
+  - Lean Six Sigma Master Black Belt (certified)
+- Revenue Cycle Management
+  - 2024 & 2025 KLAS Emerging Technology Council
+  - 2023 KLAS K2 Summit Points of Light Recipient 
+  - 2023 KLAS RCM Summit Keynote
+- InfoSec
+  - OffSec: OSCP, OSCP+, OSEP, OSWE
+  - HTB: CPTS, CWEE
+  - Misc: CISM, Azure Cybersecurity Architect + other cloud certs
 <!-- **Hack The Box**
 [![HTB Badge](https://www.hackthebox.com/badge/image/12345)](https://app.hackthebox.com/profile/12345)
 *(Replace `12345` with your actual HTB ID — this badge updates automatically)* -->
----
 <h2 align="left">🛠 Skills</h2>
 
 - **Executive:** Leading Global Teams, Delivering on OpEx, Expert knowledge of healthcare ops & finance
@@ -72,8 +69,6 @@
 - **Networking & Security:** TCP/IP, Firewalls, IDS/IPS, Threat Modeling
 - **Penetration Testing:** Obfuscation, Web Apps, APIs, Network Exploitation, Privilege Escalation, Kerberoasting - some C2 deployment
 - **Cloud & Infrastructure:** Azure, AWS, Linux Server Hardening, IoT
-  
-<br>
 
 <!--
 <h2 align="left">⚙️ Tools & Tech</h2>
