@@ -38,7 +38,7 @@
 <div class="container">
   <div class="text-section">
 <h2 align="left">Information Security</h2>
-<p>Cybersecurity is a critical pillar of clinical outcomes and cost reduction in care delivery. The solutions and hardware that providers purchase are rarely designed with security in mind. In healthcare's urgent push for better outcomes, this oversight often gets buried, turning those tools into entrenched fixtures that rack up unnecessary overhead costs through vulnerabilities and patches./p>
+<p>Cybersecurity is a critical pillar of clinical outcomes and cost reduction in care delivery. The solutions and hardware that providers purchase are rarely designed with security in mind. In healthcare's urgent push for better outcomes, this oversight often gets buried, turning those tools into entrenched fixtures that rack up unnecessary overhead costs through vulnerabilities and patches.</p>
 <p>Hospitals and providers are strapped for cash (as highlighted in the RCM dynamics above), compelling leadership to gamble with higher risks and skimp on a robust security posture. A strong supply chain and information security program remains a luxury for the select few who are well-positioned or hold enough market share to negotiate favorable payer contracts.</p>
 <p>Sharing some fun repos for those curious about the porous financial products flooding the market. I’ll aim to get a Change Healthcare simulation up by 2026.</p>
   </div>
@@ -66,8 +66,8 @@
 
 - **Executive:** Leading Global Teams, Delivering on OpEx, Expert knowledge of healthcare ops & finance
 - **Programming Languages:** Python, Bash, SQL
-- **Networking & Security:** TCP/IP, Firewalls, IDS/IPS, Threat Modeling
 - **Penetration Testing:** Obfuscation, Web Apps, APIs, Network Exploitation, Privilege Escalation, Kerberoasting - some C2 deployment
+- **Networking & Security:** TCP/IP, Firewalls, IDS/IPS, Threat Modeling
 - **Cloud & Infrastructure:** Azure, AWS, Linux Server Hardening, IoT
 
 <!--
