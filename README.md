@@ -47,15 +47,15 @@
   </div>
 <h2 align="left">🎓 Recognition & Training</h2>
   
-- Education:
+- **Education:**
   - Georgia Institute of Technology - Bachelors in Computer Science (infosec focus)
   - Lehigh University - Master in Industrial Engineering (healthcare focus)
   - Lean Six Sigma Master Black Belt (certified)
-- Revenue Cycle Management
+- **Revenue Cycle Management:**
   - 2024 & 2025 KLAS Emerging Technology Council
   - 2023 KLAS K2 Summit Points of Light Recipient 
   - 2023 KLAS RCM Summit Keynote
-- InfoSec
+- **InfoSec:**
   - OffSec: OSCP, OSCP+, OSEP, OSWE
   - HTB: CPTS, CWEE
   - Misc: CISM, Azure Cybersecurity Architect + other cloud certs
