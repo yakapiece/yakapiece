@@ -15,7 +15,7 @@
 <br>
 <div class="container">
   <div class="text-section">
-    <p>I am passionate about my work in healthcare enhancing patient safety, improving clinical & financial outcomes, through technology-driven solutions. With a Bachelor's in Computer Science (cybersecurity focus) from Georgia Tech and a Master's in Industrial Engineering from Lehigh University, I've built a career leading transformative initiatives at organizations like Emory, Geisinger, Highmark/Allegheny Health Network, and multiple startups.
+    <p>I am passionate about my work in healthcare enhancing patient safety, improving clinical & financial outcomes, through technology-driven solutions. With a Bachelor's in Computer Science from Georgia Tech and a Master's in Industrial Engineering from Lehigh University, I've built a career leading transformative initiatives at organizations like Emory, Geisinger, Highmark/Allegheny Health Network, and multiple startups.
 </p>
     <p>In today's challenging economic landscape, providers often struggle with unreliable reimbursements, infrastructure vulnerabilities, and maintaining high-quality care delivery amid limited resources. My unique blend of technical expertise and healthcare systems knowledge allows me to address these issues in innovative ways, from automating workflows to enhancing security measures. This GitHub serves as a hub for sharing tools, insights, and projects that have supported my mission to make healthcare more efficient, secure, and patient-centered.</p>
   </div>
@@ -27,7 +27,8 @@
   <div class="text-section">
 <h2 align="left"> Revenue Cycle Management</h2>
 <p>Revenue Cycle Management (RCM) is the unfortunate counterweight to a payer-led financial system, where guidelines shift like the house rules in a high-stakes poker game—constantly evolving, even among similar insurance brands, and always introducing new barriers that stack the deck against providers seeking fair reimbursement.</p>
-<p>RCM is also the lifeblood for any provider group or health system. It's often fee-for-service, but in some cases, a payer and provider might negotiate shared outcomes and how to split the allotted insurance reimbursement. But only if the provider hits those target outcomes; otherwise, it's all-in on a bluff—the house (payer) rakes in the pot, leaving the provider with empty pockets. The industry even has its shady bookies lurking in the shadows, taking their cut of the winnings (aka: many RCM vendors) who still demand a percentage of the reimbursement, no matter the hand. </p>
+<p>RCM is also the lifeblood of any provider group or health system. It's often fee-for-service, but in some cases, a payer and provider might negotiate an agreement based on shared outcomes (Value-based care). RCM, along with the Quality Department, share in the responsibility of translating the continuity of care and achieving outcomes by utilizing registries that still function on fee-for-service technology stacks.</p>
+<p>Proceed carefully with RCM vendors who hype "end-to-end solutions" and structure agreements as a percent of revenue—it's like betting against a stacked deck. The best partners are focused on patient outcomes and financial success, and they'll go all-in on their services, putting skin in the game.</p>
 <p>While this landscape is primed for Agentic AI and all manner of automation, simply understanding your data and maximizing revenue can feel like drawing dead. Here are a few repos to help hack your claims:</p>
   </div>
   <div class="image-section" align="center">
